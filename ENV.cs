@@ -8,6 +8,7 @@ namespace CBR
 {
     public static class ENV
     {
-        public static string PASSWORD = "Wuw01794";
-    }
+        public static string PASSWORD = "";
+     }
+
 }
